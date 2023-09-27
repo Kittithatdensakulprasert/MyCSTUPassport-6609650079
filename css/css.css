@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: orange;
+}
+
+.header{
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
