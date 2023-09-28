@@ -34,6 +34,7 @@ body{
 
 .link{
     text-align: center;
+    
 }
 
 a.H{
@@ -43,11 +44,15 @@ a.H{
     
 }
 
+
 .picture{
     padding: 50px;
     text-align: center;
-    
-    
+}
+
+.picture :hover{
+    transform: translateY(-5px);
+    transition: .4s;
 }
 
 #Myself {
