@@ -3,13 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.Introduce{
+    color: rgb(255, 240, 124);
+    background-color: rgb(90, 97, 104);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 30px;
+}
+
+#Myself{
+    color: bisque;
+}
+
 body{
-    background-color: orange;
+    background-image: url("/image/star.jpeg");
+
+    
 }
 
 .header{
     text-align: center;
-    padding: 15px;
+    padding: 10px;
+    margin: 15px;
+    color: rgb(0, 153, 255);
+    background-color: aliceblue;
+    border-radius: 30px;
 }
 
 .link{
@@ -26,15 +46,31 @@ a.H{
 .picture{
     padding: 50px;
     text-align: center;
+    
+    
 }
 
 #Myself {
     text-align: center;
+    
+}
+
+.name{
+    margin: 15px;
 }
 
 #video{
     text-align: center;
     padding: 50px;
+    color: rgb(255, 240, 124);
+    
+}
+
+.video2{
+    background-color: rgb(90, 97, 104);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 30px;
 }
 
 .video1{
@@ -48,4 +84,5 @@ html{
 #contact{
     text-align: center;
     margin: 50px;
+    color: aliceblue;
 }
