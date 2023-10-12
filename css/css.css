@@ -43,7 +43,7 @@ html {
 }
   
 .header {
-    background-image: url("Shanghai.jpg");
+    background-image: url("../image/Shanghai.jpg");
     color: #ffffff;
     padding: 15px;
 }
@@ -100,7 +100,7 @@ video{
 }
   
 .footer {
-    background-image: url("cloud.jpg");
+    background-image: url("../image/cloud.jpg");
     
     color: #ffffff;
     text-align: center;
